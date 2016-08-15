@@ -1,0 +1,1 @@
+# TeamSkywars.php
